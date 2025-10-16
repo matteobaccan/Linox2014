@@ -7,6 +7,11 @@ Questo repository contiene il materiale e i testi legati alla serata "Raspberry 
 - Sezione "Comunicato stampa": testo del comunicato utilizzato per l'annuncio.
 - Materiali: file di presentazione (.odp) e PDF disponibili nella root del repository.
 
+Materiali scaricabili:
+
+- [Matteo Baccan - Raspberry Pi - Linox 2014.odp](./Matteo Baccan - Raspberry Pi - Linox 2014.odp)
+- [Matteo Baccan - Raspberry Pi - Linox 2014.pdf](./Matteo Baccan - Raspberry Pi - Linox 2014.pdf)
+
 ## Tracce per la serata
 
 ### Traccia corta
