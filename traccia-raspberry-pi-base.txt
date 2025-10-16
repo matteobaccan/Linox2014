@@ -1,0 +1,41 @@
+Traccia Corta
+-------------
+Introduzione al Raspberry Pi
+
+Il Raspberry Pi è un single-board computer (SBC) sviluppato in Inghilterra dalla Raspberry Pi Foundation.
+
+L'idea di base del progetto è quella di realizzare un dispositivo economico, utile a favorire l'insegnamento dell'informatica nelle scuole.
+
+Vedremo all'opera Raspberry Pi sia come Media Center, che come ambiente di sviluppo per applicazioni LAMP: Linux, Apache, MySQL e PHP, utilizzando un dispositivo grande come un pacchetto di sigarette.
+
+Parleremo inoltre di una serie di altri utilizzi possibili, basati su software OpenSource come Retrogaming, Online Radio e Storage/Backup di rete.
+
+Tutto questo lavorando con un hardware dal costo di 35 euro.
+
+
+
+Traccia Lunga
+-------------
+Introduzione al Raspberry Pi
+
+Il Raspberry Pi è un single-board computer (SBC) sviluppato in Inghilterra dalla Raspberry Pi Foundation.
+
+Il suo lancio al pubblico è avvenuto alla fine del mese di febbraio 2012.
+
+L'idea di base del progetto è quella di realizzare un dispositivo economico, utile a favorire l'insegnamento dell'informatica nelle scuole.
+
+La scheda è stata progettata per ospitare sistemi operativi basati su un kernel Linux o RISC OS ed effettuare il boot da una scheda SD.
+
+Tramite questo dispositivo è possibile fare tutto quello che si fa con un normale computer con installato Linux, ma stando nelle dimensioni di un pacchetto di sigarette.
+
+Le prestazioni non sono sicuramente quelle di un moderno computer, ma nonostante questo è possibile utilizzare Raspberry Pi in una molteplicità di applicazioni.
+
+Durante l'evento vedremo all'opera Raspberry Pi sia come Media Center, che come ambiente di sviluppo per applicazioni LAMP: Linux, Apache, MySQL e PHP, utilizzando una installazione di Wordpress e una di PHPMyAdmin, installata completamente su Raspberry Pi.
+
+Oltre a questo parleremo di una serie di altri utilizzi possibili, basati su software OpenSource: Retrogaming, Online Radio, Storage/backup di rete etc.
+
+Per ogni utilizzo analizzeremo da quali siti internet è possibile scaricare programmi e distribuzioni in grado di alterare il comportamento base di Raspebrry Pi.
+
+Tutto questo verrà fatto utilizzando con un hardware dal costo di 35 euro.
+
+
