@@ -1,6 +1,12 @@
 # Linox2014
 Open Talk per LINOX Novara: "Raspberry Pi in azione"
 
+Questo repository contiene il materiale e i testi legati alla serata "Raspberry Pi in azione".
+
+- Sezione "Tracce per la serata": due versioni (corta e lunga) con gli argomenti trattati.
+- Sezione "Comunicato stampa": testo del comunicato utilizzato per l'annuncio.
+- Materiali: file di presentazione (.odp) e PDF disponibili nella root del repository.
+
 ## Tracce per la serata
 
 ### Traccia corta
@@ -75,5 +81,7 @@ Espressione del Linox sono i corsi di alfabetizzazione informatica, su software 
 Per maggiori informazioni potete consultare il sito dell'associazione:
 
 http://linoxnovara.wordpress.com/
+
+
 
 
